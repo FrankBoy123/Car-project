@@ -11,3 +11,21 @@ h1 {
 h3 {
     text-align: center;
 }
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.purple {
+    color: purple;
+}
+
+.blue,
+.red,
+.purple {
+    font-size: 22px;
+}
