@@ -48,3 +48,12 @@ h5 {
     padding: 15px;
     font-size: 15px;
 }
+
+h5 .btn {
+  background: none;
+  border-radius: 12px;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+}
