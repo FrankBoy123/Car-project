@@ -68,3 +68,8 @@ h5 .btn-2 {
  color: black;
  background-color: red;  
 }
+
+h5 .btn-3 {
+    color: black;
+    background-color: rgb(79, 3, 179);
+}
